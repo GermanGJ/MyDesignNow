@@ -5,7 +5,8 @@
   "main": "mydesignnow.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "Node mydesignnow.js"
+    "start-n": "Node mydesignnow.js",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",

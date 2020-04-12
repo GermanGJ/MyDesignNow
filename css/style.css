@@ -1,0 +1,21 @@
+.MenuPrincipal{
+    background: red;
+}
+
+.AreaApp{
+    background: indianred;
+    height: 100%;
+    width: 20%;
+}
+
+.AreaHerramientas{
+    background: hotpink;
+    height: 100%;
+    width: 20%;
+}
+
+.AreaDeTrabajo{
+    background: greenyellow;
+    height: 100%;
+    width: 80%;
+}

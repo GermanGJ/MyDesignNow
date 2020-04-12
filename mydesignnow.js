@@ -11,7 +11,7 @@ function createWindow () {
     }
   })
 
-  // y carga el  index.html de la aplicación.
+  // y carga el  mydesignnow.html de la aplicación.
   win.loadFile('mydesignnow.html')
 }
 

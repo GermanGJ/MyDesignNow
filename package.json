@@ -1,0 +1,23 @@
+{
+  "name": "mydesignnow",
+  "version": "1.0.0",
+  "description": "Aplicacion para diseño de formas",
+  "main": "mydesignnow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-n": "Node mydesignnow.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanGJ/MyDesignNow.git"
+  },
+  "author": "2GJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanGJ/MyDesignNow/issues"
+  },
+  "homepage": "https://github.com/GermanGJ/MyDesignNow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
